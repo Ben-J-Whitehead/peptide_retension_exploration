@@ -1,4 +1,4 @@
-# portal_peptide_exploration
+# peptide_retension_exploration
 Exploratory analysis of peptide LC retention times, investigating the drivers of retention behaviour
 
 ## Background
